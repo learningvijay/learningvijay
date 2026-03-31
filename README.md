@@ -1,68 +1,86 @@
-<h1 align="center">Hi 👋, I'm Vijay Kumar MN</h1>
-<h3 align="center">Beginner in VLSI Design | Learning RTL & Digital Design</h3>
+<h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
+<h3 align="center">Aspiring VLSI Design & Verification Engineer | Digital Design Enthusiast</h3>
 
 ---
 
-## 🌱 About Me
-
-- 🎓 Engineering Student (Electronics Background)
-- 🚀 Starting my journey towards becoming a **VLSI Engineer**
-- 📚 Currently learning:
+## 🚀 About Me
+- 🎓 Final Year Engineering Student
+- 🔬 Passionate about **VLSI Design & Verification**
+- 📘 Completed:
   - Digital Electronics
-  - Computer Architecture
+  - Advanced Digital Design
+- 🧠 Currently Learning:
   - Verilog HDL
-- 🧠 Building strong fundamentals before advanced projects
-- 📍 Bangalore, India
+  - Advanced Verilog Design & Simulation
+- 🎯 Goal: Become a **Skilled VLSI Engineer (Design + Verification)**
 
 ---
 
-## 🛠️ Skills (Learning Phase)
+## 🧰 Technical Skills
 
-### Hardware & VLSI
-- Digital Logic Design (Basics)
-- Verilog HDL (Beginner)
-- Computer Architecture (Learning)
+### 🔹 Hardware Design
+- Digital Electronics
+- Combinational & Sequential Circuits
+- FSM Design
+- Timing & Delay Analysis
 
-### Programming
-- C
-- C++
-- Java
+### 🔹 HDL & Tools
+- Verilog HDL (Learning & Practicing)
+- Cadence (Simulation & Design)
+- ModelSim / GTKWave (if used)
 
-
-### Tools (Learning)
-- Git & GitHub
-- ModelSim / Cadence (Beginner)
-
----
-
-## 📘 Current Learning Journey
-
-✔ Understanding RTL Design  
-✔ Writing basic Verilog modules  
-✔ Learning simulation & testbenches  
-⬜ RISC Processor Project (Coming Soon)
+### 🔹 Concepts
+- RTL Design
+- Testbench Writing
+- Simulation & Debugging
+- Design Optimization
 
 ---
 
-## 🎯 My Goal
+## 📂 Current Focus
 
-To become a skilled **RTL Design / VLSI Engineer** by building strong fundamentals and real hardware projects step by step.
-
----
-
-## 📈 Learning Progress
-
-- 🔰 First Verilog Programs → Coming Soon
-- 🔰 Digital Design Practice → Ongoing
-- 🔰 GitHub Portfolio → Started
+- 🔧 Verilog Practice (Daily Coding)
+- 🧪 Writing Testbenches
+- 🧩 Building Modular RTL Designs
+- 📊 Understanding Timing & Constraints
 
 ---
 
-## 🤝 Connect With Me
+## 📁 Projects (Upcoming)
 
-- LinkedIn: (linkedin.com/in/vijaykumar10122003)
-- Email: (vijaykumarmn03@gmail.com)
+- 🔹 RISC Processor Implementation (VLSI Project)
+- 🔹 Counters & FSM Design Collection
+- 🔹 Verilog Practice Repository (Daily Updates)
 
 ---
 
-⭐ *“Every expert was once a beginner — learning one module at a time.”*
+## 📈 GitHub Goals
+
+- 📌 Upload Daily Progress
+- 📌 Build Strong RTL Portfolio
+- 📌 Maintain Clean & Structured Code
+- 📌 Prepare for VLSI Interviews
+
+---
+
+## 💡 Areas of Interest
+
+- ASIC Design
+- RTL Design & Verification
+- Low Power Design
+- High-Speed Digital Systems
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: (add your email here)
+- 💼 LinkedIn: (add your link here)
+
+---
+
+## ⚡ Motivation
+
+> "Consistency in practice leads to mastery in silicon."
+
+---
